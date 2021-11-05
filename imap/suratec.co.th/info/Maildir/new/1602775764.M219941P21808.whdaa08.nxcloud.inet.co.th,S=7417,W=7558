@@ -1,0 +1,141 @@
+Return-Path: <servicdn@server3.hostlino.com>
+Delivered-To: info@suratec.co.th
+Received: from whdaa08.nxcloud.inet.co.th
+	by whdaa08.nxcloud.inet.co.th with LMTP
+	id nNemC9RqiF8wVQAA4r5WTA
+	(envelope-from <servicdn@server3.hostlino.com>)
+	for <info@suratec.co.th>; Thu, 15 Oct 2020 22:29:24 +0700
+Return-path: <servicdn@server3.hostlino.com>
+Envelope-to: info@suratec.co.th
+Delivery-date: Thu, 15 Oct 2020 22:29:24 +0700
+Received: from ip197.ip-51-83-170.eu ([51.83.170.197])
+	by whdaa08.nxcloud.inet.co.th with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.2)
+	(envelope-from <servicdn@server3.hostlino.com>)
+	id 1kT5Bz-0005kU-AK
+	for info@suratec.co.th; Thu, 15 Oct 2020 22:29:24 +0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=servicedan.com; s=default; h=Date:Message-Id:Content-type:MIME-Version:From
+	:Subject:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=2F+eYbafDHpTXYU/zSuzZujV9b5/lldQ5HbrxF9v/IU=; b=GgFHcPGEFLRbIHUdy7U3CFv9kX
+	XrBLR1Fg+9WsJwnSq0/nxkHNc1YbzcVdLpXZIOPLfarm9vPeg+tVj97a5JxSeNFZjo/17Y4GQSk1A
+	YF14BziIvQxX/kYnIng3tTngeT4bmRE7+AVSJ+zVLUOHvp31yEUc0QCvA2+AakRN1DldCH8aSGNz4
+	Cu7v74pZe5bdtodWuExWL4JBSnwTkCcT6c9jVi/6PA7g6U0RfGDaSZCagyzDLndBxP2vjqMpx0Iui
+	eg99HA5jx6TxMM9hhG1q0ldpVycTK1P/lfWA7b8iVYiCOspzCQqpfzLSsAIV+R63tzZb51tTRtKsh
+	IgIlReWg==;
+Received: from servicdn by server3.hostlino.com with local (Exim 4.93)
+	(envelope-from <servicdn@server3.hostlino.com>)
+	id 1kT579-00011X-2K
+	for info@suratec.co.th; Thu, 15 Oct 2020 18:54:23 +0330
+To: info@suratec.co.th
+Subject: =?UTF-8?B?QWN0aW9uIFJlcXVpcmVkIC0gSUQ6WzUwNjg1MjAxNTQwNV0=?=
+X-PHP-Script: servicedan.com/asba.php for 40.76.87.250
+X-PHP-Originating-Script: 1012:asba.php
+From: =?UTF-8?B?UGF5UGFs?= <support@servicedan.com>
+MIME-Version: 1.0;
+Content-type: multipart/mixed; boundary="--oqL4RJxLCL"
+Message-Id: <E1kT579-00011X-2K@server3.hostlino.com>
+Date: Thu, 15 Oct 2020 18:54:23 +0330
+X-YourOrg-MailScanner-Information: Please contact the ISP for more information
+X-YourOrg-MailScanner-ID: 1kT579-00011X-2K
+X-YourOrg-MailScanner: Found to be clean
+X-YourOrg-MailScanner-SpamCheck: 
+X-YourOrg-MailScanner-From: servicdn@server3.hostlino.com
+X-Spam-Status: No
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server3.hostlino.com
+X-AntiAbuse: Original Domain - suratec.co.th
+X-AntiAbuse: Originator/Caller UID/GID - [1012 992] / [47 12]
+X-AntiAbuse: Sender Address Domain - server3.hostlino.com
+X-Get-Message-Sender-Via: server3.hostlino.com: authenticated_id: servicdn/from_h
+X-Authenticated-Sender: server3.hostlino.com: support@servicedan.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+----oqL4RJxLCL
+Content-type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>&nbsp;</p>
+<center style="width: 100%; background-color: #f4f4f4; padding: 0 20px 30px; box-sizing: border-box; -webkit-box-sizing: border-box;"><!-- [if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f4f4f4;">
+<tr>
+<td>
+<![endif]--> <!-- Visually Hidden Preheader Text : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">&nbsp;</div>
+<!-- Create white space after the desired preview text so email clients donâ€™t pull other distracting text into the inbox preview. Extend as necessary. --> <!-- Preview Text Spacing Hack : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌</div>
+<!-- Preview Text Spacing Hack : END --> <!-- Visually Hidden Preheader Text : END --> <!-- Email Body : BEGIN -->
+<table class="email-container" style="margin: 0 auto;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0"><!-- Email Header : BEGIN -->
+<tbody>
+<tr>
+<td style="padding: 30px 0 10px;">&nbsp;</td>
+</tr>
+<!-- Email Header : END --> <!-- 1 Column Text + Button : BEGIN -->
+<tr>
+<td style="background-color: #ffffff;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 30px 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 14px; line-height: 20px; color: #333132;">
+<p>Dear Client :</p>
+<p>Your account needs to update some information for security reasons, our request to follow the instructions:</p>
+<p>Please log in to your account and complete the steps to confirm your identity.</p>
+<p>To help protect your account, access will remain limited until you complete the necessary steps.</p>
+<p>Click on the link below to complete this process.</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0 40px 30px;"><!-- Button : BEGIN -->
+<table style="margin: 0 !important;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="button-td button-td-primary" style="border-radius: 4px; background: #222222;"><a class="button-a button-a-primary" style="font-family: 'Source Sans Pro', sans-serif; font-size: 12px; text-decoration: none; color: #ffffff; display: block; background-color: #107c9e; line-height: 1; padding: .75rem 1rem .75rem 1rem;" href="https://elparadoxe.com/css/"> Confirm my account </a></td>
+</tr>
+</tbody>
+</table>
+<!-- Button : END --></td>
+</tr>
+<!-- Footer Text : BEGIN -->
+<tr>
+<td>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 14px; line-height: 20px; color: #333132;">
+<p style="margin: 0;">We're happy to have you on board! Please let us know if we can answer any questions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Footer Text : END --></tbody>
+</table>
+</td>
+</tr>
+<!-- 1 Column Text + Button : END --> <!-- Clear Spacer : BEGIN --> <!-- <tr>
+<td aria-hidden="true" height="40" style="font-size: 0px; line-height: 0px;">
+ 
+</td>
+</tr> --> <!-- Clear Spacer : END --></tbody>
+</table>
+<!-- Email Body : END --> <!-- Email Footer : BEGIN -->
+<table class="email-container" style="margin: 0 auto;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; padding: 20px 40px 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; line-height: 15px; color: #333132;"><!-- <webversion style="color: #cccccc; text-decoration: underline; font-weight: bold;">View as a Web Page</webversion> --> <!-- <br><br> --><hr style="border: 0; border-top: 1px solid #f4f4f4; height: 0; background: transparent; margin-bottom: 20px;"><a style="color: #107c9e; text-decoration: underline; margin-right: 20px;" href="mailto:support@linode.com">Contact Us</a> <!-- <br><br> --> <!-- <unsubscribe style="color: #888888; text-decoration: underline;">unsubscribe</unsubscribe> --></td>
+</tr>
+</tbody>
+</table>
+<!-- Email Footer : END --> <!-- [if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]--></center>
+----oqL4RJxLCL
+

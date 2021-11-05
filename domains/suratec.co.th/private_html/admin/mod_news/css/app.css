@@ -1,0 +1,333 @@
+.header-attribute td{
+    padding: 3px;
+    border:1px solid #ddd;
+}
+.header-attribute th{
+    padding: 8px;
+    /*border:1px solid white;*/
+    /*background-color: #ddd;*/
+    background:#fcfcfc;
+}
+.control-label{
+    padding-top: 7px;
+    text-align: right;
+    padding-right: 0px;
+}
+.normal-product{
+    margin-bottom: 13px;
+}
+/*    .table-attribute th,td{
+      padding: 5px;
+    }*/
+.overlay-allpage{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    background-color: rgba(0,0,0,0.7);
+    cursor: pointer;
+    z-index: 999999;
+}
+/* transition: 0.5s;
+}*/
+.hidden-xy{
+    overflow: hidden;
+}
+.overlay-allpage>.fa{
+    position: absolute;
+    color: white;
+    top:50%;
+    left:50%;
+    font-size: 60px;
+    margin-top: -35px;
+    margin-left: -35px;
+    z-index: 999999;
+}
+.text-image .fa{
+    font-size: 40px;
+}
+/*table tr,td{
+  vertical-align: top;
+  height: 50px;
+  border-bottom:1px solid #efefef;
+}*/
+.form-group{
+    margin-bottom: 5px;
+}
+.btn-default.active{
+    border:none;
+}
+/*  .btn-default:hover{
+    border:none;
+  }*/
+.btn-primary.active{
+    border:none;
+}
+/*    .btn-primary:hover{
+      border:none;
+    }*/
+.btn-success{
+    background-color: #5cb85c;
+    border: none;
+}
+.btn-warning{
+    border:none;
+}
+.style{
+    background-color: #e6e6e6;
+    border:1px solid #b5b5b5;
+    transition: 0.4s;
+}
+.style:hover{
+    background-color: #f7f7f7;
+    border:1px solid #b5b5b5;
+    /*color: white;*/
+}
+.style:focus{
+    color: white;
+}
+.check-active-ready{
+    background-color:#4cad40 !important;
+    border-color:#4cad40 !important;
+    color:white !important;
+}
+.check-active-ready:hover{
+    background-color: white !important;
+    border-color: #4cad40 !important;
+    color: #4cad40 !important;
+}
+.check-active-soon{
+    background-color:#FDA323 !important;
+    border-color:#FDA323 !important;
+    color:white !important;
+}
+.check-active-soon:hover{
+    background-color: white !important;
+    border-color: #FDA323 !important;
+    color: #FDA323 !important;
+}
+.check-active-out{
+    background-color:#FD6F3B !important;
+    border-color:#FD6F3B !important;
+    color:white !important;
+}
+.check-active-out:hover{
+    background-color: white !important;
+    border-color: #FD6F3B !important;
+    color: #FD6F3B !important;
+}
+.check-active-des{
+    background-color:#EFA694 !important;
+    border-color: #EFA694 !important;
+    color:white !important;
+}
+.check-active-des:hover{
+    background-color: white !important;
+    border-color:#EFA694 !important;
+    color: #EFA694 !important;
+}
+.sweet-alert .sa-icon{
+    margin-bottom: 35px;
+}
+.sps{
+    border:1px solid;
+    border-color: #ddd;
+    border-radius: 4px;
+    width: 100%;
+    max-height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    transition: 0.4s
+}
+.sps:hover{
+    border:1px solid #399bf2;
+    box-shadow:0px 0px 5px 0px #16B1F0;
+}
+.check_suit{
+    display: none;
+}
+.active_ssp{
+    border-color: #399bf2 !important;
+    color: #399bf2 !important;
+    box-shadow:0px 0px 5px 0px #16B1F0;
+}
+/* width */
+.text-cat::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+.text-cat::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #f1f1f1;
+}
+
+/* Handle */
+.text-cat::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #888;
+}
+
+/* Handle on hover */
+.text-cat::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+.bg-option{
+    background-color: #ddd;
+    color:white;
+}
+.bg-option1{
+    background-color: grey;
+    color:white;
+}
+.bootstrap-tagsinput{
+    border:none;
+    box-shadow: none;
+}
+.drop_area{
+    transition: 0.4s;
+}
+.remove-item{
+    transition: 0.4s;
+    background-color: #fff4f4 !important;
+}
+.bootstrap-tagsinput{
+    background-color: transparent;
+}
+tr:hover{
+    background-color: #fcfcfc;
+}
+.attr_change{
+    margin-top: 10px;
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    background-color: rgba(255,255,255,0.7);
+    cursor: pointer;
+    z-index: 40;
+}
+.tag span{
+    display: none;
+}
+.bootstrap-tagsinput input{
+    display: none;
+}
+.border_check{
+    border-color: orange;
+}
+.bootstrap-select button{
+    background-color: white;
+}
+.dropdown-menu{
+    z-index: 1030;
+}
+#share{
+    opacity: 0.5;
+    transform: rotate(90deg);
+}
+
+.nav-tabs-custom-edit>.nav-tabs>li.active{
+    border-top-color: #f39c12 !important;
+}
+
+.nav-tabs-custom-add>.nav-tabs>li.active{
+    border-top-color: #00c0ef !important;
+}
+.box-box-fa{
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #ddd;
+    width: 130px;
+    font-size: 86px;
+    border:1px #ddd solid;
+    border-radius: 4px;
+}
+.content-choice{
+    padding: 5px 15px 5px 15px;
+}
+.group-btn-custom{
+    margin-top: 10px;
+}
+.active_link{
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    color: white;
+}
+.btn-default:hover, .btn-default:active, .btn-default.hover{
+    background: none !important;
+}
+@media (min-width: 768px){
+
+}
+
+.callout-primary{
+    background-color: #3c8dbc;
+    color: white;
+    border-color: #367fa9;
+    border-radius: 0;
+}
+.font{
+    margin-bottom: 0 !important;
+}
+.callout-warning-new{
+    background-color: #e08e0b;
+    color: white;
+    border-color: #c97d00;
+    border-radius: 0;
+}
+textarea {
+    resize: vertical;
+}
+
+.td-align{
+    vertical-align: middle !important;
+}
+
+.color-flat-turquoise
+{color:#fff;background-color:#1abc9c}
+.color-flat-emerald
+{color:#fff;background-color:#2ecc71}
+.color-flat-peter-river
+{color:#fff;background-color:#3498db}
+.color-flat-amethyst
+{color:#fff;background-color:#9b59b6}
+.color-flat-wet-asphalt
+{color:#fff;background-color:#34495e}
+.color-flat-green-sea
+{color:#fff;background-color:#16a085}
+.color-flat-nephritis
+{color:#fff;background-color:#27ae60}
+.color-flat-belize-hole
+{color:#fff;background-color:#2980b9}
+.color-flat-wisteria
+{color:#fff;background-color:#8e44ad}
+.color-flat-midnight-blue
+{color:#fff;background-color:#2c3e50}
+.color-flat-sun-flower
+{color:#fff;background-color:#f1c40f}
+.color-flat-carrot
+{color:#fff;background-color:#e67e22}
+.color-flat-alizarin
+{color:#fff;background-color:#e74c3c}
+.color-flat-clouds
+{color:#000;background-color:#ecf0f1}
+.color-flat-concrete
+{color:#fff;background-color:#95a5a6}
+.color-flat-orange
+{color:#fff;background-color:#f39c12}
+.color-flat-pumpkin
+{color:#fff;background-color:#d35400}
+.color-flat-pomegranate
+{color:#fff;background-color:#c0392b}
+.color-flat-silver
+{color:#000;background-color:#bdc3c7}
+.color-flat-asbestos
+{color:#fff;background-color:#7f8c8d}

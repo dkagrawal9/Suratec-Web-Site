@@ -1,0 +1,317 @@
+Return-Path: <>
+Delivered-To: support@suratec.co.th
+Received: from whdaa08.nxcloud.inet.co.th
+	by whdaa08.nxcloud.inet.co.th with LMTP
+	id ju9QGZyZmF948QIA4r5WTA
+	(envelope-from <>)
+	for <support@suratec.co.th>; Wed, 28 Oct 2020 05:05:16 +0700
+Return-path: <>
+Envelope-to: support@suratec.co.th
+Delivery-date: Wed, 28 Oct 2020 05:05:16 +0700
+Received: from mail by whdaa08.nxcloud.inet.co.th with local (Exim 4.92.2)
+	id 1kXX5g-000ouP-6e
+	for support@suratec.co.th; Wed, 28 Oct 2020 05:05:16 +0700
+X-Failed-Recipients: tests05@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@whdaa08.nxcloud.inet.co.th>
+To: support@suratec.co.th
+Content-Type: multipart/report; report-type=delivery-status; boundary=1603836316-eximdsn-514101111
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kXX5g-000ouP-6e@whdaa08.nxcloud.inet.co.th>
+Date: Wed, 28 Oct 2020 05:05:16 +0700
+
+--1603836316-eximdsn-514101111
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tests05@gmail.com
+    host gmail-smtp-in.l.google.com [172.217.194.27]
+    SMTP error from remote mail server after RCPT TO:<tests05@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser t22si2484832pfc.215 - gsmtp
+
+--1603836316-eximdsn-514101111
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; whdaa08.nxcloud.inet.co.th
+
+Action: failed
+Final-Recipient: rfc822;tests05@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser t22si2484832pfc.215 - gsmtp
+
+--1603836316-eximdsn-514101111
+Content-type: message/rfc822
+
+Return-path: <support@suratec.co.th>
+Received: from [46.17.175.5] (helo=suratec.shaktiwebsolutions.com)
+	by whdaa08.nxcloud.inet.co.th with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.2)
+	(envelope-from <support@suratec.co.th>)
+	id 1kXX5d-000ouL-7Q
+	for tests05@gmail.com; Wed, 28 Oct 2020 05:05:13 +0700
+Message-ID: <3bda8ab50c6502f5c1db136a54fc3a8a@suratec.shaktiwebsolutions.com>
+Date: Wed, 28 Oct 2020 05:05:09 +0700
+Subject: Appointment Booked!!!
+From: Suratec <support@suratec.co.th>
+To: tests05  <tests05@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xht=
+ml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+</head>
+
+<body
+  style=3D"box-sizing: border-box; font-family: -apple-system, BlinkMacSyst=
+emFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoj=
+i', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; -webkit-text-s=
+ize-adjust: none; background-color: #ffffff; color: #718096; height: 100%; =
+line-height: 1.4; margin: 0; padding: 0; width: 100% !important;">
+  <style>
+    @media only screen and (max-width: 600px) {
+      .inner-body {
+        width: 100% !important;
+      }
+
+      .footer {
+        width: 100% !important;
+      }
+    }
+
+    @media only screen and (max-width: 500px) {
+      .button {
+        width: 100% !important;
+      }
+    }
+  </style>
+  <table class=3D"wrapper" width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" role=3D"presentation"
+    style=3D"box-sizing: border-box; font-family: -apple-system, BlinkMacSy=
+stemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Em=
+oji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; -premailer-c=
+ellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%; backgroun=
+d-color: #edf2f7; margin: 0; padding: 0; width: 100%;">
+    <tr>
+      <td align=3D"center"
+        style=3D"box-sizing: border-box; font-family: -apple-system, BlinkM=
+acSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Colo=
+r Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative;">
+        <table class=3D"content" width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation"
+          style=3D"box-sizing: border-box; font-family: -apple-system, Blin=
+kMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Co=
+lor Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; -prema=
+iler-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%; mar=
+gin: 0; padding: 0; width: 100%;">
+          <tr>
+            <td class=3D"header"
+              style=3D"box-sizing: border-box; font-family: -apple-system, =
+BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Appl=
+e Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; pa=
+dding: 25px 0; text-align: center;">
+              <a href=3D"http://localhost"
+                style=3D"box-sizing: border-box; font-family: -apple-system=
+, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Ap=
+ple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; =
+color: #3d4852; font-size: 19px; font-weight: bold; text-decoration: none; =
+display: inline-block;">Suratec</a>
+            </td>
+          </tr>
+          <tr>
+            <td class=3D"body" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0"
+              style=3D"box-sizing: border-box; font-family: -apple-system, =
+BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Appl=
+e Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; -p=
+remailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 100%;=
+ background-color: #edf2f7; border-bottom: 1px solid #edf2f7; border-top: 1=
+px solid #edf2f7; margin: 0; padding: 0; width: 100%;">
+              <table class=3D"inner-body" align=3D"center" width=3D"570" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation"
+                style=3D"box-sizing: border-box; font-family: -apple-system=
+, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Ap=
+ple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; =
+-premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570=
+px; background-color: #ffffff; border-color: #e8e5ef; border-radius: 2px; b=
+order-width: 1px; box-shadow: 0 2px 0 rgba(0, 0, 150, 0.025), 2px 4px 0 rgb=
+a(0, 0, 150, 0.015); margin: 0 auto; padding: 0; width: 570px;">
+                <tr>
+                  <td class=3D"content-cell"
+                    style=3D"box-sizing: border-box; font-family: -apple-sy=
+stem, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,=
+ 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relati=
+ve; max-width: 100vw; padding: 32px;">
+                    <h1
+                      style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive; color: #3d4852; font-size: 18px; font-weight: bold; margin-top: 0; te=
+xt-align: left;">
+                      Hello, your appointment booked successfully</h1>
+                    <p
+                      style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;=
+">
+                      Check the details below.</p>
+                    <div class=3D"table"
+                      style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive;">
+                      <table
+                        style=3D"box-sizing: border-box; font-family: -appl=
+e-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-se=
+rif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: re=
+lative; -premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-wi=
+dth: 100%; margin: 30px auto; width: 100%;">
+                        <thead
+                          style=3D"box-sizing: border-box; font-family: -ap=
+ple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-=
+serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: =
+relative;">
+                          <tr>
+                            <th align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; border-bottom: 1px solid #edeff2; margin: 0; padding-bottom: =
+8px;">
+                            </th>
+                            <th align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; border-bottom: 1px solid #edeff2; margin: 0; padding-bottom: =
+8px;">
+                            </th>
+                          </tr>
+                        </thead>
+                        <tbody style=3D"box-sizing: border-box; font-family=
+: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, =
+sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; posit=
+ion: relative;">
+                          <tr>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              Appointment Date</td>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              2020-10-28</td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              Appointment Time</td>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              08:00 am</td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              Appointment Link</td>
+                            <td align=3D"left"
+                              style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; color: #74787e; font-size: 15px; line-height: 18px; margin: 0=
+; padding: 10px 0;">
+                              <a href=3D"https://www.suratec.co.th/home/app=
+ointments.php?profile=3Dst">Click here</a></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <p
+                      style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;=
+">
+                      Thanks,<br>Suratec</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td
+              style=3D"box-sizing: border-box; font-family: -apple-system, =
+BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Appl=
+e Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative;">
+              <table class=3D"footer" align=3D"center" width=3D"570" cellpa=
+dding=3D"0" cellspacing=3D"0" role=3D"presentation"
+                style=3D"box-sizing: border-box; font-family: -apple-system=
+, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Ap=
+ple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; =
+-premailer-cellpadding: 0; -premailer-cellspacing: 0; -premailer-width: 570=
+px; margin: 0 auto; padding: 0; text-align: center; width: 570px;">
+                <tr>
+                  <td class=3D"content-cell" align=3D"center"
+                    style=3D"box-sizing: border-box; font-family: -apple-sy=
+stem, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,=
+ 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relati=
+ve; max-width: 100vw; padding: 32px;">
+                    <p
+                      style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive; line-height: 1.5em; margin-top: 0; color: #b0adc5; font-size: 12px; t=
+ext-align: center;">
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
+
+--1603836316-eximdsn-514101111--

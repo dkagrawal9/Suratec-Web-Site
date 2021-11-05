@@ -1,0 +1,22 @@
+*{
+  font-family: sans-serif;
+}
+
+#doctor_stream{
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+#doctor_stream video{
+  position: relative !important;
+}
+
+#patient_stream{
+  display: flex;
+}
+
+#patient_stream video{
+  height: auto;
+  position: relative !important;
+}

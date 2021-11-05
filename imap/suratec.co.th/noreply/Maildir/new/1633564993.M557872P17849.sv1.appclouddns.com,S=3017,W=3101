@@ -1,0 +1,84 @@
+Return-Path: <>
+Delivered-To: noreply@suratec.co.th
+Received: from sv1.appclouddns.com
+	by sv1.appclouddns.com with LMTP
+	id 7GUdIUE5XmG5RQAA1E3obw
+	(envelope-from <>)
+	for <noreply@suratec.co.th>; Thu, 07 Oct 2021 07:03:13 +0700
+Return-path: <>
+Envelope-to: noreply@suratec.co.th
+Delivery-date: Thu, 07 Oct 2021 07:03:13 +0700
+Received: from mail by sv1.appclouddns.com with local (Exim 4.94.2)
+	id 1mYGsT-0004l7-Gm
+	for noreply@suratec.co.th; Thu, 07 Oct 2021 07:03:13 +0700
+X-Failed-Recipients: email@email.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sv1.appclouddns.com>
+To: noreply@suratec.co.th
+References: <GENERATED-WASMISSING-1mYGqu-0004l0-5V@sv1.appclouddns.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633564993-eximdsn-646546684
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mYGsT-0004l7-Gm@sv1.appclouddns.com>
+Date: Thu, 07 Oct 2021 07:03:13 +0700
+
+--1633564993-eximdsn-646546684
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  email@email.com
+    host mx00.mail.com [74.208.5.20]
+    SMTP error from remote mail server after RCPT TO:<email@email.com>:
+    550 Requested action not taken: mailbox unavailable
+
+--1633564993-eximdsn-646546684
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sv1.appclouddns.com
+
+Action: failed
+Final-Recipient: rfc822;email@email.com
+Status: 5.0.0
+Remote-MTA: dns; mx00.mail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1633564993-eximdsn-646546684
+Content-type: message/rfc822
+
+Return-path: <noreply@suratec.co.th>
+Received: from [167.99.49.25]
+	by sv1.appclouddns.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <noreply@suratec.co.th>)
+	id 1mYGqu-0004l0-5V
+	for email@email.com; Thu, 07 Oct 2021 07:03:08 +0700
+Content-Type: multipart/mixed; boundary="===============8574693221716397873=="
+MIME-Version: 1.0
+Subject: LIVE SMTP BY MOHAMED SAMY
+From: noreply@suratec.co.th
+To: email@email.com
+Message-ID: <GENERATED-WASMISSING-1mYGqu-0004l0-5V@sv1.appclouddns.com>
+X-ACL-Warn: Adding Message-ID header because it is missing!
+
+--===============8574693221716397873==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+            <center><h2>SMTP LIVE BY MOHAMED SAMY </h2><br>
+            [O_o] ############################################################################ [O_o]
+            <h4>  SMTP HOST => suratec.co.th [+]</h4>
+            <h4>  SMTP Port => 587 [+]</h4>
+            <h4>  SMTP Username => noreply@suratec.co.th [+]</h4>
+            <h4> SMTP Password => 5W@!5S9X!vg@V [+] </h4>
+
+            </center>
+            
+--===============8574693221716397873==--
+
+--1633564993-eximdsn-646546684--

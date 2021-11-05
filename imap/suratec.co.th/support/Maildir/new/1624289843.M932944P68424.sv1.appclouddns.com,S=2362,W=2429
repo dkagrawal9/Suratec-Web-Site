@@ -1,0 +1,67 @@
+Return-Path: <>
+Delivered-To: support@suratec.co.th
+Received: from sv1.appclouddns.com
+	by sv1.appclouddns.com with LMTP
+	id btaFNjOy0GBICwEA1E3obw
+	(envelope-from <>)
+	for <support@suratec.co.th>; Mon, 21 Jun 2021 22:37:23 +0700
+Return-path: <>
+Envelope-to: support@suratec.co.th
+Delivery-date: Mon, 21 Jun 2021 22:37:23 +0700
+Received: from mail by sv1.appclouddns.com with local (Exim 4.94.2)
+	id 1lvLzH-000IHx-SX
+	for support@suratec.co.th; Mon, 21 Jun 2021 22:37:23 +0700
+X-Failed-Recipients: test-206920096@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sv1.appclouddns.com>
+To: support@suratec.co.th
+References: <1624294177-744a052712620e59e47bce0abe338c83@suratec.co.th>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1624289843-eximdsn-2008335561
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1lvLzH-000IHx-SX@sv1.appclouddns.com>
+Date: Mon, 21 Jun 2021 22:37:23 +0700
+
+--1624289843-eximdsn-2008335561
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  test-206920096@yahoo.com
+    host mta5.am0.yahoodns.net [67.195.204.79]
+    SMTP error from remote mail server after end of data:
+    552 1 Requested mail action aborted, mailbox not found
+
+--1624289843-eximdsn-2008335561
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sv1.appclouddns.com
+
+Action: failed
+Final-Recipient: rfc822;test-206920096@yahoo.com
+Status: 5.0.0
+Remote-MTA: dns; mta5.am0.yahoodns.net
+Diagnostic-Code: smtp; 552 1 Requested mail action aborted, mailbox not found
+
+--1624289843-eximdsn-2008335561
+Content-type: message/rfc822
+
+Return-path: <support@suratec.co.th>
+Received: from [85.209.206.36] (helo=localhost.localdomain)
+	by sv1.appclouddns.com with esmtpa (Exim 4.94.2)
+	(envelope-from <support@suratec.co.th>)
+	id 1lvLz9-000IHW-GA
+	for test-206920096@yahoo.com; Mon, 21 Jun 2021 22:37:18 +0700
+From: Suratec <support@suratec.co.th>
+To: test-206920096@yahoo.com
+Subject: Smtp 0
+Message-Id: <1624294177-744a052712620e59e47bce0abe338c83@suratec.co.th>
+Date: Mon, 21 Jun 2021 16:49:37 +0000
+
+This is a test message from 0
+	
+
+--1624289843-eximdsn-2008335561--

@@ -1,0 +1,27 @@
+{
+    "name": "dev-001/card",
+    "description": "employee card",
+    "type": "library",
+    "require": {
+        "codeitnowin/barcode": "dev-master",
+        "cocur/background-process": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:tecnickcom/tc-lib-pdf.git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "frank29259",
+            "email": "frank29259@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Card\\": ""
+        }
+    }
+}

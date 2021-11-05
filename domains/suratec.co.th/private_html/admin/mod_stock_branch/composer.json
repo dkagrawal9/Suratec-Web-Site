@@ -1,0 +1,16 @@
+{
+    "name": "dev-001/mod_stock_branch",
+    "type": "library",
+    "authors": [
+        {
+            "name": "frank",
+            "email": "frank29259@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\StockBranch\\" : "src//"
+        }
+    }
+}

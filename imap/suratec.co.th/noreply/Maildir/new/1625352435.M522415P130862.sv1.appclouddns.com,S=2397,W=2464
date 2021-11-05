@@ -1,0 +1,67 @@
+Return-Path: <>
+Delivered-To: noreply@suratec.co.th
+Received: from sv1.appclouddns.com
+	by sv1.appclouddns.com with LMTP
+	id ES7yHfPo4GAu/wEA1E3obw
+	(envelope-from <>)
+	for <noreply@suratec.co.th>; Sun, 04 Jul 2021 05:47:15 +0700
+Return-path: <>
+Envelope-to: noreply@suratec.co.th
+Delivery-date: Sun, 04 Jul 2021 05:47:15 +0700
+Received: from mail by sv1.appclouddns.com with local (Exim 4.94.2)
+	id 1lzoPr-0000LZ-FE
+	for noreply@suratec.co.th; Sun, 04 Jul 2021 05:47:15 +0700
+X-Failed-Recipients: test-1213869266@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sv1.appclouddns.com>
+To: noreply@suratec.co.th
+References: <1625356823-c794b73e090d22926b6f68790d89af28@suratec.co.th>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1625352435-eximdsn-1867594379
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1lzoPr-0000LZ-FE@sv1.appclouddns.com>
+Date: Sun, 04 Jul 2021 05:47:15 +0700
+
+--1625352435-eximdsn-1867594379
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  test-1213869266@yahoo.com
+    host mta7.am0.yahoodns.net [67.195.228.106]
+    SMTP error from remote mail server after end of data:
+    552 1 Requested mail action aborted, mailbox not found
+
+--1625352435-eximdsn-1867594379
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sv1.appclouddns.com
+
+Action: failed
+Final-Recipient: rfc822;test-1213869266@yahoo.com
+Status: 5.0.0
+Remote-MTA: dns; mta7.am0.yahoodns.net
+Diagnostic-Code: smtp; 552 1 Requested mail action aborted, mailbox not found
+
+--1625352435-eximdsn-1867594379
+Content-type: message/rfc822
+
+Return-path: <noreply@suratec.co.th>
+Received: from 45-206-209-85.ipv6routing.net ([85.209.206.45] helo=localhost.localdomain)
+	by sv1.appclouddns.com with esmtpa (Exim 4.94.2)
+	(envelope-from <noreply@suratec.co.th>)
+	id 1lzoPj-0000LS-Ge
+	for test-1213869266@yahoo.com; Sun, 04 Jul 2021 05:47:10 +0700
+From: Suratec <noreply@suratec.co.th>
+To: test-1213869266@yahoo.com
+Subject: Smtp 0
+Message-Id: <1625356823-c794b73e090d22926b6f68790d89af28@suratec.co.th>
+Date: Sun, 4 Jul 2021 00:00:23 +0000
+
+This is a test message from 0
+	
+
+--1625352435-eximdsn-1867594379--

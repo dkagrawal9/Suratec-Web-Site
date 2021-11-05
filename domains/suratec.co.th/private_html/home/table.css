@@ -1,0 +1,14 @@
+table { 
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  /*border-radius: 6px;*/
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+table tr:hover{
+  background-color: #f6f8fa !important;
+}
+

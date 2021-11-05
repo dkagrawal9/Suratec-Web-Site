@@ -1,0 +1,56 @@
+Return-path: <>
+Envelope-to: srt@suratec.co.th
+Delivery-date: Sat, 23 Jan 2021 15:27:04 +0700
+Received: from mail by whdaa08.nxcloud.inet.co.th with local (Exim 4.92.2)
+	id 1l3EG8-000rTI-2L
+	for srt@suratec.co.th; Sat, 23 Jan 2021 15:27:04 +0700
+X-Failed-Recipients: text@whdaa08.nxcloud.inet.co.th
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@whdaa08.nxcloud.inet.co.th>
+To: srt@suratec.co.th
+Content-Type: multipart/report; report-type=delivery-status; boundary=1611390424-eximdsn-1175774208
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1l3EG8-000rTI-2L@whdaa08.nxcloud.inet.co.th>
+Date: Sat, 23 Jan 2021 15:27:04 +0700
+
+--1611390424-eximdsn-1175774208
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  text@whdaa08.nxcloud.inet.co.th
+    Unrouteable address
+
+--1611390424-eximdsn-1175774208
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; whdaa08.nxcloud.inet.co.th
+
+Action: failed
+Final-Recipient: rfc822;text@whdaa08.nxcloud.inet.co.th
+Status: 5.0.0
+
+--1611390424-eximdsn-1175774208
+Content-type: message/rfc822
+
+Return-path: <srt@suratec.co.th>
+Received: from srt by whdaa08.nxcloud.inet.co.th with local (Exim 4.92.2)
+	(envelope-from <srt@suratec.co.th>)
+	id 1l3EG7-000rTE-VU
+	for text@whdaa08.nxcloud.inet.co.th; Sat, 23 Jan 2021 15:27:03 +0700
+To: text@whdaa08.nxcloud.inet.co.th
+Subject: SURATEC : Your request new password
+X-PHP-Originating-Script: 1012:ForgetPasswordController.php
+From: noreply@suratec.co.th
+Reply-To: noreply@suratec.co.th
+X-Mailer: PHP/7.3.9
+Message-Id: <E1l3EG7-000rTE-VU@whdaa08.nxcloud.inet.co.th>
+Date: Sat, 23 Jan 2021 15:27:03 +0700
+
+new password is : uI4qSMQC
+
+--1611390424-eximdsn-1175774208--

@@ -1,0 +1,16 @@
+{
+    "name": "dev-001/mod_customer",
+    "authors": [
+        {
+            "name": "frank",
+            "email": "frank29259@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\Customer\\" : "src//"
+        }
+    }
+}

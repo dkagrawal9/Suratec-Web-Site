@@ -1,0 +1,14 @@
+{
+    "name": "frank/mail",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "symfony/polyfill-mbstring": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "Parinya Suhaporamet",
+            "email": "frank29259@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

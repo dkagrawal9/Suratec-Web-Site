@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: srt@suratec.co.th
+Received: from sv1.appclouddns.com
+	by sv1.appclouddns.com with LMTP
+	id qYSuCbg1+mCv2wAA1E3obw
+	(envelope-from <>)
+	for <srt@suratec.co.th>; Fri, 23 Jul 2021 10:21:28 +0700
+Return-path: <>
+Envelope-to: srt@suratec.co.th
+Delivery-date: Fri, 23 Jul 2021 10:21:28 +0700
+Received: from mail by sv1.appclouddns.com with local (Exim 4.94.2)
+	id 1m6lke-000Eki-4C
+	for srt@suratec.co.th; Fri, 23 Jul 2021 10:21:28 +0700
+X-Failed-Recipients: text@sv1.appclouddns.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sv1.appclouddns.com>
+To: srt@suratec.co.th
+References: <E1m6lke-000Ekd-3M@sv1.appclouddns.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1627010488-eximdsn-1051473739
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m6lke-000Eki-4C@sv1.appclouddns.com>
+Date: Fri, 23 Jul 2021 10:21:28 +0700
+
+--1627010488-eximdsn-1051473739
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  text@sv1.appclouddns.com
+    Unrouteable address
+
+--1627010488-eximdsn-1051473739
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sv1.appclouddns.com
+
+Action: failed
+Final-Recipient: rfc822;text@sv1.appclouddns.com
+Status: 5.0.0
+
+--1627010488-eximdsn-1051473739
+Content-type: message/rfc822
+
+Return-path: <srt@suratec.co.th>
+Received: from srt by sv1.appclouddns.com with local (Exim 4.94.2)
+	(envelope-from <srt@suratec.co.th>)
+	id 1m6lke-000Ekd-3M
+	for text@sv1.appclouddns.com; Fri, 23 Jul 2021 10:21:28 +0700
+To: text@sv1.appclouddns.com
+Subject: SURATEC : Your request new password
+X-PHP-Originating-Script: 1039:ForgetPasswordController.php
+From: noreply@suratec.co.th
+Reply-To: noreply@suratec.co.th
+X-Mailer: PHP/7.3.28
+Message-Id: <E1m6lke-000Ekd-3M@sv1.appclouddns.com>
+Date: Fri, 23 Jul 2021 10:21:28 +0700
+
+new password is : VxGkS2Di
+
+--1627010488-eximdsn-1051473739--
